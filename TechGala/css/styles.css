@@ -26,6 +26,12 @@ h6 {
   z-index: 1;
 }
 
+.highlight {
+  background: linear-gradient(to top, rgba(254, 230, 9, 0.35) 55%, transparent 55%);
+  padding-right: 6%;
+  padding-left: 3%;
+}
+
 /* Containers */
 
 .container-fluid {
